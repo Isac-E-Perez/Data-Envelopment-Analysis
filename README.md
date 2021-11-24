@@ -1,4 +1,4 @@
-# Data Envelopment Analysis with deaR
+# Data Envelopment Analysis (DEA) with deaR
 
 ### About:
 
